@@ -6,3 +6,9 @@ struct CLMain {
         print("=== this is CLSDK_Swift main Method")
     }
 }
+
+class CLMainTest {
+    public static func testMain() {
+        print("=== this is CLSDK_Swift CLMainTest testMain Method")
+    }
+}
